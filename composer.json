@@ -1,0 +1,24 @@
+{
+    "name": "doxadoxa/restore-phrase-generator",
+    "description": "Restore phrase generator for passwords inspired by BIP-39 from Bitcoin Core.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taras D",
+            "email": "td@hrom.fund"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Doxadoxa\\" : "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
