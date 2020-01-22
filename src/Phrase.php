@@ -53,7 +53,7 @@ class Phrase
     {
         if ( !static::$instance ) {
             static::$instance = new Generator(
-                "../wordlist.txt"
+                "wordlist.txt"
             );
         }
 

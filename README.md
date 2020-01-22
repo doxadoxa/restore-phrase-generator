@@ -1,4 +1,8 @@
 ## Restore phrase generator
+<a href="https://packagist.org/packages/doxadoxa/restore-phrase-generator"><img src="https://poser.pugx.org/doxadoxa/restore-phrase-generator/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/doxadoxa/restore-phrase-generator"><img src="https://poser.pugx.org/doxadoxa/restore-phrase-generator/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/doxadoxa/restore-phrase-generator"><img src="https://poser.pugx.org/doxadoxa/restore-phrase-generator/license.svg" alt="License"></a>
+
 Small PHP library for generating a phrase for password restoring.
 
 Inspired by BIP-39 from Bitcoin Core.
